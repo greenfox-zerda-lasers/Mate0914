@@ -1,0 +1,61 @@
+
+body{
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+header{
+  font-size: 20px;
+  background-image: url(anakin.png);
+  background-repeat:no-repeat;
+  background-size: 100% 100%;
+  padding: 150px;
+  margin-left: 350px;
+  margin-right: 350px;
+  width: auto;
+  position: relative;
+}
+
+.bemutatkozas{
+  line-height:2;
+}
+
+hr{
+  margin: 0 auto;
+  border: none;
+  border-bottom: 4px solid #0f0f0f;
+}
+
+.pozition{
+  width: 700px;
+  padding-left: 600px;
+}
+
+.2{
+  font-family: 'Merriweather', serif;
+}
+.nevem h1{
+  position: absolute;
+  left: 140px;
+  top: 140px;
+  font-family: 'Abril Fatface', #222 grey;
+}
+
+.Vastag{
+  color: white;
+  padding: 40px;
+  width: auto;
+  background-color: grey;
+}
+
+h1{
+  color: black;
+  font-weight: 30px;
+}
+
+h2{
+  color: black;
+}
+
+.lista{
+  list-style-type: square;
+}
