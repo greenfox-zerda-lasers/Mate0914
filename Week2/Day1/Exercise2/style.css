@@ -1,0 +1,55 @@
+header{
+  margin: auto;
+  width: 600px;
+  height: 100px;
+  background-color: #00FFFF;
+}
+
+footer{
+  margin: auto;
+  width: 600px;
+  height: 100px;
+  background-color: blue;
+}
+
+.flexcontainer{
+margin: auto;
+width: 600px;
+display: flex;
+flex-direction: row;
+}
+
+.box{
+  width: 100px;
+}
+.one{
+  height: 750px;
+  background-color: #FFA500;
+  flex: 1 auto;
+}
+.main{
+  margin-left: 50px;
+  height: 750px;
+  background-color: red;
+  flex: 3 auto;
+  position: relative;
+}
+.two{
+  margin-left: 50px;
+  height: 750px;
+  background-color: purple;
+  flex: 1 auto;
+}
+
+.blackbox{
+  width: 100px;
+  height: 100px;
+  background-color: black;
+  position: absolute;
+  top: 82%;
+  right: 5%;
+}
+
+body{
+
+}

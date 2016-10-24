@@ -1,0 +1,18 @@
+.a, .b{
+  text-align:justify;
+  border-bottom: 2px solid black ;
+  width: 299px;
+  height:215px;
+  margin: 20px;
+  padding-bottom: 15px;
+}
+
+.a img{
+  float: left;
+
+}
+
+.b img{
+  float: right;
+
+}
